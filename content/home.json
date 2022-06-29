@@ -8,19 +8,9 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/dia-dos-namorados-promocao-banner-canvas.png",
-          "link": "",
-          "alt": "",
-          "start": "2022-05-01T19:46:37.231Z",
-          "end": "2023-05-27T19:46:31.437Z",
-          "mobile_img": "/img/uploads/dia-dos-namorados-promocao-banner-canvas.png"
-        },
-        {
-          "img": "/img/uploads/dia-dos-namorados-promocao-banner-canvas-1-.png",
-          "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/dia-dos-namorados-promocao-banner-canvas-1-.png"
         }
       ]
     },
