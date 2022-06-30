@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/catedralcomercial",
-  "logo": "/img/uploads/cartao_vetorizado1-removebg-preview.png",
+  "logo": "/img/uploads/cartao-vetorizado2.png",
   "name": "catedralcomercial",
   "short_name": "catedralcomercial",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/cartao_vetorizado1-removebg-preview.png",
+  "favicon": "/img/uploads/cartao-vetorizado2.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/cartao_vetorizado1-removebg-preview.png",
+  "icon": "/img/uploads/cartao-vetorizado2.png",
   "store_id": 51281,
   "description": "catedralcomercial",
-  "large_icon": "/img/uploads/cartao_vetorizado1-removebg-preview.png"
+  "large_icon": "/img/uploads/cartao-vetorizado2.png"
 }
