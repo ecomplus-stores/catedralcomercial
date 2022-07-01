@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/catedralcomercial",
   "logo": "/img/uploads/cartao-vetorizado2.png",
-  "name": "catedralcomercial",
-  "short_name": "catedralcomercial",
+  "name": "Catedral Comercial",
+  "short_name": "Catedral Comercial",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/cartao-vetorizado2.png",
   "store_id": 51281,
-  "description": "catedralcomercial",
+  "description": "Catedral Comercial",
   "large_icon": "/img/uploads/cartao-vetorizado2.png"
 }
