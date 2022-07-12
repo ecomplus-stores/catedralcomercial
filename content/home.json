@@ -45,6 +45,23 @@
       "page": 1,
       "collection_id": "62bc9645eb859112166ca2e5:categories:Cobreleito/Colcha:/cobreleitocolcha",
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/icon.png"
+        },
+        {
+          "img": "/img/uploads/headphone.webp"
+        },
+        {
+          "img": "/img/uploads/passion.webp"
+        },
+        {
+          "img": "/img/uploads/logo.webp"
+        }
+      ]
     }
   ]
 }
