@@ -24,6 +24,10 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/selo-google.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.jessimake.com.br&hl=pt_BR"
     }
   ],
   "payment_methods": {
