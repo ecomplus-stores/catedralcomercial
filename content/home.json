@@ -45,23 +45,6 @@
       "page": 1,
       "collection_id": "62bc9645eb859112166ca2e5:categories:Cobreleito/Colcha:/cobreleitocolcha",
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/design-sem-nome-2-.png"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-4-.png"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-3-.png"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-5-.png"
-        }
-      ]
     }
   ]
 }
