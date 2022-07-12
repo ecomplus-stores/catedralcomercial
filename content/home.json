@@ -44,7 +44,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "lowest_price"
+      "sort": "slug",
+      "title": "Todos os produtos",
+      "link": "Todos os produtos"
     }
   ]
 }
