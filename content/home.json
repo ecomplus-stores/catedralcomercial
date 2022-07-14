@@ -37,16 +37,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "slug",
-      "title": "Todos os produtos",
-      "link": "Todos os produtos"
     }
   ]
 }
