@@ -30,12 +30,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
-      "sort": "offers",
-      "title": "",
+      "sort": "slug",
+      "title": "Todos os produtos",
       "headless": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1
     }
   ]
