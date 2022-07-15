@@ -37,6 +37,10 @@
       "headless": false,
       "limit": 20,
       "page": 1
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
