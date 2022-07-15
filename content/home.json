@@ -29,16 +29,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "slug",
-      "title": "Todos os produtos",
-      "headless": false,
-      "limit": 20,
-      "page": 1
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
