@@ -8,8 +8,8 @@
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Não gostou? Realizamos a troca do seu produto!"
   },
   "promo": {
     "show": true,
