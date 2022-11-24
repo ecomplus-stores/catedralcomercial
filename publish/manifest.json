@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.161efaba49eaf071192a793cd02543e0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.46d267bfa0127483c7e329984153a65c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d2c9339f92d1d411b1221b561f58e0de.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.72a47f593e35b5e7cb3d6c6d85562a7e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.57439a0539015b1871f6b02d3645aa91.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Catedral Comercial",
+  "short_name": "Catedral Comercial",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Catedral Comercial",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
